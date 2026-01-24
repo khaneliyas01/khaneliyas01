@@ -55,7 +55,7 @@ We've all lost one earring, one glove, or one shoe. Instead of throwing away the
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Linkedin.com/in/khaneliyas01)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.Linkedin.com/in/khaneliyas01)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khaneliyas01@gmail.com)
 
